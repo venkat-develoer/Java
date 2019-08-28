@@ -1,0 +1,14 @@
+package com.test;
+
+import java.util.*;
+
+public class Sample {
+	
+	public static void main(String args[]) {
+		List<Integer> values =Arrays.asList(1,2,3,4);
+		
+		values.forEach(value -> System.out.println(value));
+		//values.s
+	}
+
+}
